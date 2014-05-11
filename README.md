@@ -1,4 +1,4 @@
 udacity2048
 ===========
 
-Old Game
+Old Puzzle Game develop for Udacity 2048 classes
